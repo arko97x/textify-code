@@ -1,0 +1,15 @@
+{
+  "name": "textify_code",
+  "version": "1.0.0",
+  "description": "desktop app to extract text from images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Arkoprabho Bhattacharjee",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.1.0",
+    "python-shell": "^1.0.7"
+  }
+}
